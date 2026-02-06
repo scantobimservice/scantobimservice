@@ -1,16 +1,16 @@
-## Hi there 👋
+# Scan to BIM Service
 
-<!--
-**scantobimservice/scantobimservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build smart Scan to BIM solutions and Revit plugins that
+convert point cloud data into accurate, production-ready BIM models.
 
-Here are some ideas to get you started:
+## 🚀 What We Do
+- Point Cloud to Revit BIM
+- Scan to BIM Automation
+- Revit Plugin Development
+- Architectural, Structural & MEP BIM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Revit | C# | Revit API | Dynamo | LiDAR | Point Cloud | BIM
+
+🌐 Website: https://scantobimservice.com  
+📧 Email: scantobimservice@gmail.com
