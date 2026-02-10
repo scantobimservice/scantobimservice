@@ -19,7 +19,7 @@ complex modeling workflows directly inside Autodesk Revit.
 - Optimized workflows for large LiDAR datasets
 
 ## 🛠 Technology Stack
-Revit | C# | Revit API | Dynamo | LiDAR | Point Cloud | BIM | Autodesk ReCap
+Revit | C# | C++ | python | Revit API | Dynamo | LiDAR | Point Cloud | BIM | Autodesk ReCap
 
 ## 💼 Commercial Product
 Our Scan to BIM Revit Plugin is used by professionals worldwide to reduce manual
