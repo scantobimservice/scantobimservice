@@ -27,4 +27,7 @@ modeling effort by up to **70%** while maintaining BIM standards and accuracy.
 
 🌐 Product Page: https://scantobimservice.com/scan-to-bim-software/  
 🌐 Website: https://scantobimservice.com  
+📧 Contact: support@scantobimservice.com
 📧 Contact: scantobimservice@gmail.com
+
+
